@@ -1,0 +1,34 @@
+A NOTICE FOR ANTIVIRUS USERS - Please Read:
+
+Modern antivirus programs can detect a wide range of potentially dangerous programs. 
+This normally goes far beyond traditional viruses and worms and often includes heuristic 
+alerts, which basically means that you can get alerts and warnings when an antivirus 
+program "thinks it could be" something.
+
+These warnings should be expected for the following types of applications: 
+ - Software that logs or captures keystrokes 
+ - Software that monitors user activity 
+ - Software that allows you to recover passwords or other personal data 
+ - Software that monitors or logs Internet or network activity 
+
+Since SpyAgent can do all of the above, some antivirus solutions may deem SpyAgent as 'potentially
+harmful' or a 'trojan' despite it being a legitimate tool to monitor your computer (and users). 
+With all Spytech software, you can be sure our products are 100% safe to use and virus-free. 
+If you run into any "trojan" related warnings, it is very likely to 
+be a regular feature of the SpyAgent software that is misinterpreted by your anti-virus 
+software. If you have concerns please contact us at support@spytech-web.com
+
+If your antivirus creates any conflicts please instruct it to ignore/exclude the following files:
+	c:\program files\sysconfig\ and all files contained within 
+		(note: 64-bit computers will use the install folder c:\program files (x86)\sysconfig\)
+	c:\windows\system32\sinvfct.dll
+
+If you are using Symantec or Norton antivirus products you also need to exclude the signatures
+'Spyware.Spytech', 'Spyware.Keylogger', and 'Spyware.NetVizor'.
+
+Once these files are excluded your antivirus will no longer interfere with SpyAgent's operation.
+For more exclusion details please see http://www.spytech-web.com/help/exclusions.shtml
+
+
+
+
